@@ -2,7 +2,9 @@
 title: "Practice Final Exam 2025"
 author: "Your Name Here"
 ---
-  
+
+-   Note: The points on this document are intended to provide you with an idea of how points will be allocated on the actual exam. This "Homework" assignment is worth 10 points. 
+
 -   The real exam is due at 3pm on May 15, 2025. 
 
 -   I will grade the exam as it is pushed to github. I cannot grade the exam that exists on your computer, so please double-check your github repository to ensure that the file that is on github is the file you want me to grade.
